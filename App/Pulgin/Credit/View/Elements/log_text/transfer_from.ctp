@@ -1,0 +1,1 @@
+<?php echo __d('credit','Receiving credits') ?>
